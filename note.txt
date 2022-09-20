@@ -1,0 +1,5 @@
+
+
+python-osc:
+https://github.com/attwad/python-osc
+pip install python-osc
